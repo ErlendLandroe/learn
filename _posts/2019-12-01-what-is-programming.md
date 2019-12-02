@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Step 1 - What is Programming?
 date: 2019-12-02 06:00:00 -0000
 ---
